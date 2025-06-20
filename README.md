@@ -131,9 +131,6 @@ You can test the API using Postman or the Postman extension in VS Code:
 node_modules/
 .env
 dist/
-*.log
-.vscode/
-*.tsbuildinfo
 ```
 
 
