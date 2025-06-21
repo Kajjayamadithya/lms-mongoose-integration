@@ -10,8 +10,13 @@ The goal of this assignment is to integrate MongoDB into an Express.js backend u
 
 ---
 
+<<<<<<< HEAD
 ##  Folder Structure
 
+=======
+## 🏗️ Folder Structure
+```
+>>>>>>> 09a064a49737d2c98c8d45ffe6f52a3273e0367d
 Module3_Assignment/
 ├── src/
 │   ├── models/
@@ -24,8 +29,7 @@ Module3_Assignment/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
----
+```
 
 ##  Tech Stack
 
@@ -50,7 +54,7 @@ cd Module3_Assignment
 ### 2. Install Dependencies
 
 ```
-npm install
+npm install <what ever dependecies you want to install you can install>
 ```
 
 ### 3. Set Up Environment Variables
