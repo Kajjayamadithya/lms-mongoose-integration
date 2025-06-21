@@ -4,13 +4,13 @@ This project is part of the Module 3 assignment to build a backend system for a 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of this assignment is to integrate MongoDB into an Express.js backend using Mongoose. The system enables persistent storage of user data and includes endpoints to register users, retrieve user data by ID, and list all users.
 
 ---
 
-## 🏗️ Folder Structure
+##  Folder Structure
 
 Module3_Assignment/
 ├── src/
@@ -27,7 +27,7 @@ Module3_Assignment/
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
@@ -39,7 +39,7 @@ Module3_Assignment/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
