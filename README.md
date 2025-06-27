@@ -10,7 +10,6 @@ The goal of this assignment is to integrate MongoDB into an Express.js backend u
 
 ---
 
-##  Folder Structure
 
 ## 🏗️ Folder Structure
 ```
